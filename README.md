@@ -1,6 +1,6 @@
 #Image Segmentation
 
-The program named imageSegmentation.py that reads in an image, segments that image using K-Means clustering as described below, and outputs the new segmented image. The program support the following command line arguments:
+The program named imageSegmentation.py that reads in an image, segments that image using K-Means clustering, and outputs the new segmented image. The program support the following command line arguments:
 
 python imageSegmentation.py K inputImageFilename outputImageFilename
 
